@@ -25,3 +25,4 @@ n = len(valores)          # Número de itens
 
 resultado = knapsack(capacidade, pesos, valores, n)
 print(f"O valor máximo que pode ser colocado na mochila é: {resultado}")
+
